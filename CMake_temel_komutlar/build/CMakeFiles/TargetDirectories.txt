@@ -1,0 +1,3 @@
+/home/felix/Magic/sistemkodlama.github/CMake/1_temel_komutlar/Build/CMakeFiles/output.dir
+/home/felix/Magic/sistemkodlama.github/CMake/1_temel_komutlar/Build/CMakeFiles/edit_cache.dir
+/home/felix/Magic/sistemkodlama.github/CMake/1_temel_komutlar/Build/CMakeFiles/rebuild_cache.dir
